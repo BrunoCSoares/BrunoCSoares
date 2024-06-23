@@ -35,7 +35,7 @@
 <!--![Snake animation](https://github.com/BrunoCSoares/BrunoCSoares/blob/output/github-contribution-grid-snake.svg)-->
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Bruno-Carlos-Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-carlos-soares)](https://www.linkedin.com/in/bruno-carlos-soares)
+[![Linkedin](https://img.shields.io/badge/-Bruno_Carlos_Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-carlos-soares)](https://www.linkedin.com/in/bruno-carlos-soares)
 [![Gmail Badge](https://img.shields.io/badge/-bruno11carloss@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno11carloss@gmail.com)](mailto:bruno11carloss@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/BrunoCSoares?label=follow&style=social)](https://github.com/BrunoCSoares)
 
