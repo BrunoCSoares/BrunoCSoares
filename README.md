@@ -1,8 +1,9 @@
-## Olá! Eu sou o Bruno Carlos, programador e sonhador! 🦕
+## Olá! Eu sou o Bruno Carlos, Desenvolvedor Front-End! 🦕
 
-- Atualmente estudando no [Instituto Proa](https://www.proa.org.br/) 🛥️
--  Procurando um emprego na área de tecnologia 🔭
--  Buscando me especializar como programador Front-End 🌱
+- Estudante de ADS na [Fiap](https://www.fiap.com.br/) 🦾
+- Ex-Aluno do [Instituto Proa](https://www.proa.org.br/) 🛥️
+- Procurando um emprego na área de tecnologia 🔭
+- Buscando me especializar como programador Front-End 🌱
 
 ---
 ## Conhecimentos
