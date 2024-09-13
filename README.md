@@ -33,6 +33,7 @@
 <div>
   <a href="https://www.fiap.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQFGUHRJ26bFDw/company-logo_200_200/company-logo_200_200/0/1631312349936?e=2147483647&v=beta&t=2cxZo7IPlpqVmRsvk_tS2TYDHSqh8Q3SlFYcLW9nlVc" alt="FIAP logo" height="75px"></a>
   <a href="https://www.proa.org.br/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxwNgcvkCreI-2eDl6Ezt_95qBFHJQhRCSQ&s" alt="PROA logo" height="75px"></a>
+  <a href="https://www.cps.sp.gov.br/etec/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wPtBhEdhCSqpegKRteWba128Yg_KWuY5pA&s" alt="Etec logo" height="75px"></a>
 </div>
 
 ---
