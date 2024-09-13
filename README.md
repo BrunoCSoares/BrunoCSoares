@@ -31,7 +31,7 @@
 ---
 ## Projetos
 <div>
-  <a href="https://qrcc.me/se0jqj19eeka" target="_blank"><img src="https://avatars.githubusercontent.com/u/168479235?s=400&u=2ec8bf7963b23ae01f26c6c44f35d67b05ed856b&v=4" alt="Conectável" height="100" style="border-radius: 25px;"></a>
+  <a href="https://qrcc.me/se0jqj19eeka" target="_blank"><img src="https://avatars.githubusercontent.com/u/168479235?s=400&u=2ec8bf7963b23ae01f26c6c44f35d67b05ed856b&v=4" alt="Conectável" height="75" style="border-radius: 25px;"></a>
 </div>
 
 ---
