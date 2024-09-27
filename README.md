@@ -18,9 +18,10 @@
   <img align="center" alt="Bruno-Figma" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>  
   <img align="center" alt="Bruno-visualstudiocode" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Bruno-eclips" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"/>
+  <img align="center" alt="Bruno-eclipse" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"/>
   <img align="center" alt="Bruno-PyCharm" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/>
-  <!--<img align="center" alt="Bruno-Trello" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"/>
+  <!--<img align="center" alt="Bruno-Node.Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Bruno-Trello" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"/>
   <img align="center" alt="Bruno-notion" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"/>
   <img align="center" alt="Bruno-git" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img align="center" alt="Bruno-github" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>-->
