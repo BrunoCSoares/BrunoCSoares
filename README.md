@@ -2,7 +2,7 @@
 
 - **Estudante de ADS na [Fiap](https://www.fiap.com.br/)** 🦾 
 - **Ex-Aluno do [Instituto Proa](https://www.proa.org.br/)** 🛥️
-- **Procurando um emprego na área de tecnologia** 🔭
+- **Aprendiz em Ti** 🔭
 - **Buscando me especializar como programador Front-End** 🌱
 
 <div align="center"><br>
