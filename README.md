@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bruno Carlos, Desenvolvedor Front-End! 🦕
+## Olá! Eu sou o Bruno Carlos! 🦕
 
 - **Estudante de ADS na [Fiap](https://www.fiap.com.br/)** 🦾 
 - **Ex-Aluno do [Instituto Proa](https://www.proa.org.br/)** 🛥️
@@ -24,18 +24,24 @@
   <br><h2>Conhecimentos</h2>
   <p>
     <img align="center" alt="Bruno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img align="center" alt="Bruno-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="Bruno-Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="Bruno-Java" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Bruno-NextJS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg"/>
     <img align="center" alt="Bruno-Bootstrap" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center" alt="Bruno-Figma" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
-    <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>  
+  </p>
+  <br><h2>Ferramentas</h2>
+  <p>
     <img align="center" alt="Bruno-visualstudiocode" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
     <img align="center" alt="Bruno-eclipse" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"/>
     <img align="center" alt="Bruno-PyCharm" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/>
+    <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>  
+    <img align="center" alt="Bruno-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg"/>
   </p>
 
   <br><h2>Onde me encontrar</h2>
