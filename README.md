@@ -42,6 +42,8 @@
     <img align="center" alt="Bruno-PyCharm" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/>
     <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>  
     <img align="center" alt="Bruno-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg"/>
+    <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"/>
+    <img align="center" alt="Bruno-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg"/>
   </p>
 
   <br><h2>Onde me encontrar</h2>
