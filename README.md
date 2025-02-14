@@ -29,6 +29,7 @@
     <img align="center" alt="Bruno-Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="Bruno-Java" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="Bruno-NextJS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg"/>
     <img align="center" alt="Bruno-Bootstrap" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center" alt="Bruno-Figma" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
     <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>  
