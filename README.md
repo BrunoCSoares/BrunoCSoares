@@ -32,7 +32,6 @@
     <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Bruno-NextJS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg"/>
     <img align="center" alt="Bruno-Bootstrap" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
-    <img align="center" alt="Bruno-Figma" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
   </p>
   <br><h2>Ferramentas</h2>
   <p>
@@ -43,6 +42,7 @@
     <img align="center" alt="Bruno-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg"/>
     <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"/>
     <img align="center" alt="Bruno-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg"/>
+    <img align="center" alt="Bruno-Figma" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
   </p>
 
   <br><h2>Onde me encontrar</h2>
