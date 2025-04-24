@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bruno Carlos! 🦕
 
-- **Estudante de ADS na [Fiap](https://www.fiap.com.br/)** 🦾 
+- **Estudante de ADS na [Fiap](https://www.fiap.com.br/)** 🛹
 - **Ex-Aluno do [Instituto Proa](https://www.proa.org.br/)** 🛥️
-- **Aprendiz em Ti na Febrafar** 🔭
+- **Aprendiz em Ti na Febrafar** 🇧🇷
 
 <div align="center"><br>
   
