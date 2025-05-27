@@ -18,6 +18,7 @@
     <a href="https://qrcc.me/se0jqj19eeka" target="_blank"><img src="https://avatars.githubusercontent.com/u/168479235?s=400&u=2ec8bf7963b23ae01f26c6c44f35d67b05ed856b&v=4" alt="Conectável" height="75" style="border-radius: 25px;"></a>
     <a href="https://github.com/TrenSpot" target="_blank"><img src="https://avatars.githubusercontent.com/u/181512128?s=200&v=4" alt="TreSpot" height="75" style="border-radius: 25px;"></a>
     <a href="https://github.com/Candeia3" target="_blank"><img src="https://avatars.githubusercontent.com/u/188801138?s=200&v=4" alt="Candeia" height="75" style="border-radius: 25px;"></a>
+    <a href="https://github.com/GS-1-2" target="_blank"><img src="https://avatars.githubusercontent.com/u/213550558?s=200&v=4" alt="???" height="75" style="border-radius: 25px;"></a>
   </p>
 
   <br><h2>Conhecimentos</h2>
