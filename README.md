@@ -2,7 +2,7 @@
 
 - **Estudante de ADS na [Fiap](https://www.fiap.com.br/)** 🛹
 - **Ex-Aluno do [Instituto Proa](https://www.proa.org.br/)** 🛥️
-- **Aprendiz em Ti na [Febrafar](https://febrafar.com.br/)** 🇧🇷
+- **Aprendiz em P&D na [Febrafar](https://febrafar.com.br/)** 🇧🇷
 
 <div align="center"><br>
   
