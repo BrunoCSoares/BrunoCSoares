@@ -14,7 +14,7 @@ Minha jornada começou no **[Instituto Proa](https://www.proa.org.br/)** 🛥️
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 Alguns dos projetos que mais me orgulho de ter participado:
 
 <p align="center">
