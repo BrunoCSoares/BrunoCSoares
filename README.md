@@ -4,6 +4,11 @@ Sou um desenvolvedor em formação, apaixonado por criar soluções inovadoras e
 Minha jornada começou no **[Instituto Proa](https://www.proa.org.br/)** 🛥️, sigo meus estudos em **Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/)** 🛹 e aplico meus conhecimentos como **Aprendiz de P&D na [Febrafar](https://febrafar.com.br/)** 🚀.
 
 ---
+<div align="center">
+  <img width="600px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif"  />
+</div>
+
+---
 
 ## 🎓 Formação e Experiência
 <p align="center">
