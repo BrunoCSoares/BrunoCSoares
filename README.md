@@ -13,9 +13,9 @@ Minha jornada começou no **[Instituto Proa](https://www.proa.org.br/)** 🛥️
 ## 🎓 Formação e Experiência
 <p align="center">
   <a href="https://www.fiap.com.br/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQFGUHRJ26bFDw/company-logo_200_200/company-logo_200_200/0/1631312349936?e=2147483647&v=beta&t=2cxZo7IPlpqVmRsvk_tS2TYDHSqh8Q3SlFYcLW9nlVc" alt="FIAP logo" height="75px"></a>
+   <a href="" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGY4SkrZdhulQ/company-logo_200_200/B4DZXS3j.IGkAQ-/0/1742999536163/saberaprendizes_logo?e=2147483647&v=beta&t=WZ6-3TIvTySuB1Nej52KEQAftdMBoQywo8MKToU6CvM" alt="Saber logo" height="75px"></a>
   <a href="https://www.proa.org.br/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxwNgcvkCreI-2eDl6Ezt_95qBFHJQhRCSQ&s" alt="PROA logo" height="75px"></a>
   <a href="https://www.cps.sp.gov.br/etec/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wPtBhEdhCSqpegKRteWba128Yg_KWuY5pA&s" alt="Etec logo" height="75px"></a>
-  <a href="" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGY4SkrZdhulQ/company-logo_200_200/B4DZXS3j.IGkAQ-/0/1742999536163/saberaprendizes_logo?e=2147483647&v=beta&t=WZ6-3TIvTySuB1Nej52KEQAftdMBoQywo8MKToU6CvM" alt="Saber logo" height="75px"></a>
 </p>
 
 ---
