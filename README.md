@@ -24,6 +24,7 @@ Minha jornada começou no **[Instituto Proa](https://www.proa.org.br/)** 🛥️
 Alguns dos projetos que mais me orgulho de ter participado:
 
 <p align="center">
+  <a href="https://github.com/BrunoCSoares/BoneHealthPrediction_GS2_FIAP" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQHqfr1mzoBR1g/profile-treasury-image-shrink_1920_1920/B4DZ8Wgxa7GwAc-/0/1782789118029?e=1783396800&v=beta&t=LWe6Nmv7sTwGlVFTCl-49ubff77HzsjRQvtXtHAMZJM" alt="BoneGuard" height="75" style="border-radius: 25px;"></a>
   <a href="https://github.com/DuckBilll" target="_blank"><img src="https://avatars.githubusercontent.com/u/239681261?s=400&u=d4d1cad9436f1c535bc1545479ef2e5e9c07a48d&v=4" alt="DuckBill" height="75" style="border-radius: 25px;"></a>
   <a href="https://github.com/LogiShelter" target="_blank"><img src="https://avatars.githubusercontent.com/u/213550558?s=200&v=4" alt="LogiShelter" height="75" style="border-radius: 25px;"></a>
   <a href="https://github.com/Candeia3" target="_blank"><img src="https://avatars.githubusercontent.com/u/188801138?s=200&v=4" alt="Candeia" height="75" style="border-radius: 25px;"></a>
