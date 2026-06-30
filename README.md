@@ -1,7 +1,7 @@
 # Olá! Eu sou o Bruno Carlos 🦕
 
-Sou um desenvolvedor em formação, apaixonado por criar soluções inovadoras e resolver problemas com tecnologia.  
-Minha jornada começou no **[Instituto Proa](https://www.proa.org.br/)** 🛥️, sigo meus estudos em **Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/)** 🛹.
+Analista de Dados, apaixonado por criar soluções inovadoras e resolver problemas com tecnologia.  
+Minha jornada começou no **[Instituto Proa](https://www.proa.org.br/)** 🛥️, formado em **Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/)** 🛹.
 
 ---
 <div align="center">
